@@ -1,0 +1,23 @@
+.ant-modal {
+    background-color:  #202C33 !important; 
+    height: 0;
+  }
+  
+  .ant-modal-header {
+    background-color:  #202C33!important; 
+  }  
+   .ant-modal-title {
+    color:  #fff !important;
+  } 
+   .ant-modal-content {
+    background-color: #202C33 !important;
+  }
+  
+  .ant-modal-body {
+    background-color: #202C33 !important; 
+  }
+  
+  .ant-modal-footer {
+    background-color: #202C33 !important; 
+  }
+  
